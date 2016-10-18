@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56164" started-at="2016-10-18T16:29:36Z" finished-at="2016-10-18T16:30:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56164" started-at="2016-10-18T16:29:36Z" finished-at="2016-10-18T16:30:32Z">
+      <class name="springer.Search.NewTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:springer.Search.NewTest@5c3bd550]" name="setup" is-config="true" duration-ms="28423" started-at="2016-10-18T21:59:36Z" finished-at="2016-10-18T22:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="positiveTest()[pri:0, instance:springer.Search.NewTest@5c3bd550]" name="positiveTest" duration-ms="12857" started-at="2016-10-18T22:00:04Z" finished-at="2016-10-18T22:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveTest -->
+        <test-method status="PASS" signature="negativeTest()[pri:1, instance:springer.Search.NewTest@5c3bd550]" name="negativeTest" duration-ms="6481" started-at="2016-10-18T22:00:17Z" finished-at="2016-10-18T22:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:springer.Search.NewTest@5c3bd550]" name="close" is-config="true" duration-ms="8272" started-at="2016-10-18T22:00:24Z" finished-at="2016-10-18T22:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- springer.Search.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
